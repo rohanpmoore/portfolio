@@ -3,7 +3,5 @@ $(document).ready(function() {
     var input = $("input#inputText").val();
     $(".outputText").text(input);
     $("#output").show();
-    event.preventDefault();
   })
-  event.preventDefault();
 })
