@@ -1,0 +1,27 @@
+body {
+
+}
+
+.bg-lightest-blue {
+  background-color: #ddeaff;
+}
+
+.bg-light-blue {
+  background-color: #c6dcff;
+}
+
+.caption-picture {
+  float: right;
+  padding: 2px;
+  border: 2px solid black;
+  width: 20%;
+  margin: 5px;
+}
+
+.jumbotron h1 {
+  text-align: center;
+}
+
+.caption-picture img {
+  width: 100%;
+}
