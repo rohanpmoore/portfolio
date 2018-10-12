@@ -2,14 +2,6 @@ body {
   background-color: teal;
 }
 
-/* .bg-lightest-blue {
-  background-color: #ddeaff;
-} */
-
-/* .bg-light-blue {
-  background-color: #c6dcff;
-} */
-
 .caption-picture {
   float: right;
   border: 2px solid black;
@@ -58,9 +50,3 @@ body {
 .my-work h4 {
   text-align: center;
 }
-
-/* @media screen and (min-width: 400 px) {
-  .about-me p {
-    text-align: justify;
-  }
-} */
