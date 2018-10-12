@@ -9,7 +9,9 @@
 _This is my portfolio, which will eventually be shown to potential employers once I have more projects and start searching for jobs.  Quite a few sections will be replaced to be more professional at the time, including this part of the README._
 
 Some pictures of the website layout:
+
 ![First site picture](img/website-one.png)
+
 ![Second site picture](img/website-two.png)
 
 ## Setup/Installation Instructions
