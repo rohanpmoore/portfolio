@@ -17,7 +17,7 @@ _Alternatively, you can visit the GH-Pages version of the website [here](https:/
 
 ## Support and Contact Details
 
-_If you discover a bug or want to make a suggestion or comment, send me an email at rohanpmoore@gmail.com_
+_If you discover a bug or want to make a suggestion or comment, send me an email at rohanpmoore@gmail.com or file an issue on Github._
 
 ## Technologies Used
 
