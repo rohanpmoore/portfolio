@@ -24,7 +24,13 @@ function nextImage(element) {
   setTimeout(nextImage(document.getElementById(newPic)), 1000);
 }
 
-window.onload = nextImage(document.body.style.backgroundImage);
+function setBackgroundImage() {
+  document.body.style.backgroundImage = "url('img/snowy-landscape.jpg')";
+}
+
+window.onload = setBackgroundImage();
+
+window.onload = setTimeout(nextImage(document.body.style.backgroundImage), 1000);
 
 $(document).ready(function() {
   $("#formOne").submit(function(event) {
