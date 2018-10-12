@@ -17,6 +17,14 @@
   margin: 5px;
 }
 
+.language-used {
+  font-style: italic;
+}
+
+.projects a {
+  font-weight: bold;
+}
+
 .jumbotron h1 {
   text-align: center;
 }
