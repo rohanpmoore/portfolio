@@ -1,5 +1,6 @@
 body {
-  background-color: darkgreen;
+  background-image: url("../img/snowy-landscape.jpg");
+  background-size: cover;
 }
 
 iframe {
