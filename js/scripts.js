@@ -25,7 +25,7 @@ function nextImage(element) {
 }
 
 function setBackgroundImage() {
-  document.body.style.backgroundImage = "url('img/snowy-landscape.jpg')";
+  document.body.style.background = "url('img/snowy-landscape.jpg')";
 }
 
 window.onload = setBackgroundImage();
