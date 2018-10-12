@@ -1,7 +1,9 @@
 $(document).ready(function() {
-  $("formOne").submit(function(event) {
-    var input = $("input#input-text").val();
-    $(".output-text").text(input);
+  $("#formOne").submit(function(event) {
+    var input = $("input#inputText").val();
+    $(".outputText").text(input);
+    $("#output").show();
     event.preventDefault();
   })
+  event.preventDefault();
 })
