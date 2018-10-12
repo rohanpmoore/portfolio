@@ -15,6 +15,10 @@ _This is my portfolio, which will eventually be shown to potential employers onc
 
 _Alternatively, you can visit the GH-Pages version of the website [here](https://rohanpmoore.github.io/portfolio/)._
 
+## Known Bugs
+
+* _Poor behavior around 1400 pixel browser size._
+
 ## Support and Contact Details
 
 _If you discover a bug or want to make a suggestion or comment, send me an email at rohanpmoore@gmail.com or file an issue on Github._
