@@ -19,7 +19,7 @@ _A version without the background color is available through the image only bran
 
 ## Known Bugs
 
-* _Poor behavior around 1400 pixel browser size._
+* _Poor behavior around 1200 pixel browser size._
 
 ## Support and Contact Details
 
