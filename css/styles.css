@@ -9,7 +9,7 @@ iframe {
 }
 
 .container2 {
-  background-color: teal;
+  background-color: #0b445b;
   margin-top: 1%;
   margin-bottom: 1%;
 }
@@ -92,7 +92,7 @@ iframe {
 
 @media screen and (max-width: 1400px) {
   body {
-    background-color: teal;
+    background-color: #0b445b;
     background-image: none;
   }
 }
