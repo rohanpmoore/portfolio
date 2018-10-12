@@ -1,10 +1,10 @@
 var backgroundRotation = new Array();
 
 backgroundRotation[0] = new Image();
-backgroundRotation[0].src = img/snowy-landscape.jpg;
+backgroundRotation[0].src = "img/snowy-landscape.jpg";
 
 backgroundRotation[1] = new Image();
-backgroundRotation[1] = img/snowy-mountain.jpg
+backgroundRotation[1] = "img/snowy-mountain.jpg"
 
 function nextImage(element) {
   var img = document.getElementById(element);
@@ -21,10 +21,10 @@ function nextImage(element) {
       }
     }
   }
-  setTimeout(nextImage(document.getElementById(newPic)), 10000);
+  setTimeout(nextImage(document.getElementById(newPic)), 1000);
 }
 
-window.onload = nextImage(snowy-mountain.jpg);
+window.onload = nextImage(document.body.style.backgroundImage);
 
 $(document).ready(function() {
   $("#formOne").submit(function(event) {
