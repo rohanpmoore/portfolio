@@ -1,6 +1,6 @@
-body {
+/* body {
 
-}
+} */
 
 /* .bg-lightest-blue {
   background-color: #ddeaff;
@@ -12,7 +12,6 @@ body {
 
 .caption-picture {
   float: right;
-  /* padding: 2px; */
   border: 2px solid black;
   width: 20%;
   margin: 5px;
@@ -35,8 +34,12 @@ body {
   font-family: fantasy;
 }
 
-.about-me h4 {
+.well h4 {
   font-family: sans-serif;
+}
+
+.alpha-list ol {
+  list-style-type: lower-alpha;
 }
 
 /* @media screen and (min-width: 400 px) {
