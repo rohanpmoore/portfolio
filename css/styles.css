@@ -1,6 +1,6 @@
-/* body {
-
-} */
+body {
+  background-color: teal;
+}
 
 /* .bg-lightest-blue {
   background-color: #ddeaff;
@@ -27,6 +27,7 @@
 
 .jumbotron h1 {
   text-align: center;
+  font-family: cursive;
 }
 
 .caption-picture img {
@@ -44,6 +45,10 @@
 
 .well h4 {
   font-family: sans-serif;
+}
+
+.well h2 {
+  font-family: cursive;
 }
 
 .alpha-list ol {
