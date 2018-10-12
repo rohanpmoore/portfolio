@@ -10,6 +10,12 @@ iframe {
 
 .container2 {
   background-color: teal;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.top-page {
+  margin-top: 20px;
 }
 
 .caption-picture {
@@ -87,5 +93,6 @@ iframe {
 @media screen and (max-width: 1400px) {
   body {
     background-color: teal;
+    background-image: none;
   }
 }
