@@ -2,6 +2,11 @@ body {
   background-color: teal;
 }
 
+iframe {
+  width: 100%;
+  height: 500px;
+}
+
 .caption-picture {
   float: right;
   border: 2px solid black;
@@ -49,4 +54,10 @@ body {
 
 .my-work h4 {
   text-align: center;
+}
+
+@media screen and (max-width: 700) {
+  iframe {
+
+  }
 }
