@@ -65,4 +65,8 @@ iframe {
     visibility: none;
     display: none;
   }
+
+  .caption-picture {
+    display: none;
+  }
 }
