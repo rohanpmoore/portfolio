@@ -8,10 +8,14 @@
 
 _This is my portfolio, which will eventually be shown to potential employers once I have more projects and start searching for jobs.  Quite a few sections will be replaced to be more professional at the time, including this part of the README._
 
+Some pictures of the website layout:
+![First site picture](img/website-one.png)
+![Second site picture](img/website-two.png)
+
 ## Setup/Installation Instructions
 
-* _Clone this project from its [Github repository](https://github.com/rohanpmoore/portfolio)._
-* _Run index.html, which will bring you to the portfolio home page._
+1. _Clone this project from its [Github repository](https://github.com/rohanpmoore/portfolio)._
+2. _Run index.html, which will bring you to the portfolio home page._
 
 _Alternatively, you can visit the GH-Pages version of the website [here](https://rohanpmoore.github.io/portfolio/)._
 
