@@ -2,17 +2,17 @@ body {
 
 }
 
-.bg-lightest-blue {
+/* .bg-lightest-blue {
   background-color: #ddeaff;
-}
+} */
 
-.bg-light-blue {
+/* .bg-light-blue {
   background-color: #c6dcff;
-}
+} */
 
 .caption-picture {
   float: right;
-  padding: 2px;
+  /* padding: 2px; */
   border: 2px solid black;
   width: 20%;
   margin: 5px;
@@ -24,6 +24,15 @@ body {
 
 .caption-picture img {
   width: 100%;
+  border-bottom: 2px solid black;
+}
+
+.caption-picture p {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  font-size: 14pt;
+  font-family: fantasy;
 }
 
 .about-me h4 {
