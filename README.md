@@ -10,7 +10,7 @@ _This is my portfolio, which will eventually be shown to potential employers onc
 
 ## Setup/Installation Instructions
 
-* _Clone this project from its [Github repository](https://github.com/rohanpmoore/portfolio)._
+* _Clone this project from its [Github repository](https://github.com/rohanpmoore/portfolio).  You can also pull the [image-only branch](https://github.com/rohanpmoore/portfolio/tree/image-only) for the portfolio without background colors._
 * _Run index.html, which will bring you to the portfolio home page._
 
 _Alternatively, you can visit the GH-Pages version of the website [here](https://rohanpmoore.github.io/portfolio/)._
