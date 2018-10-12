@@ -25,3 +25,13 @@ body {
 .caption-picture img {
   width: 100%;
 }
+
+.about-me h4 {
+  font-family: sans-serif;
+}
+
+/* @media screen and (min-width: 400 px) {
+  .about-me p {
+    text-align: justify;
+  }
+} */
