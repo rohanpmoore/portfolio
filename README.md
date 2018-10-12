@@ -27,7 +27,7 @@ _If you discover a bug or want to make a suggestion or comment, send me an email
 
 ## Technologies Used
 
-_This portfolio uses CSS and HTML, and uses the Bootstrap CSS files._
+_This portfolio uses CSS, HTML, and Javascript._
 
 ### License
 
