@@ -29,6 +29,10 @@ iframe {
   font-style: italic;
 }
 
+#output {
+  display:none;
+}
+
 .projects a {
   font-weight: bold;
 }
