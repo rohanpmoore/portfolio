@@ -86,15 +86,15 @@ iframe {
   }
 }
 
-@media screen and (min-width: 1400px) {
+@media screen and (min-width: 1200px) {
   .container2 {
-    width: 1400px;
+    width: 1200px;
     margin-left: auto;
     margin-right: auto;
   }
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1200px) {
   body {
     background-color: #0b445b;
     background-image: none;
