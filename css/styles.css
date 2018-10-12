@@ -8,6 +8,12 @@ iframe {
   height: 500px;
 }
 
+.container2 {
+  background-color: #0b445b;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
 .top-page {
   margin-top: 20px;
 }
@@ -77,5 +83,20 @@ iframe {
 
   .caption-picture {
     display: none;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .container2 {
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  body {
+    background-color: #0b445b;
+    background-image: none;
   }
 }
